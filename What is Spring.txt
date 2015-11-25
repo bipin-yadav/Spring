@@ -1,0 +1,16 @@
+What is spring:
+Spring helps development teams everywhere build simple, portable,  fast and flexible JVM-based systems and applications.
+
+It helps to build faster java applications because it allows you to focus on your business application problem rather tha th plubming code that connects components and systems.
+
+Features:
+Modern Web - Complete Support for modern applications.
+Interation -  Enterprise orchestration and adapters for distributed applications, asynchronous applications, message based applications and so on.
+Data Access - Support traditional RDBMS and new noSQL.
+Cloud ready - Supported by all cloud platform.
+Secruity -  authorization level at tiers and authentication integration ot the dozens of providers.
+Social - integration with all the ocial network.
+Mobile - web suport for the mobile platform.
+
+
+Dependency Injection : If we want to inject one java object that depend on other, we can inject that to second java object to first with the help of the xml, so we can use both together.
