@@ -1,0 +1,12 @@
+Setting up your System:-
+
+JDK EE
+Eclipse EE(STS-Spring Tool Suite or Eclipse IDE+WTP Plugin)
+
+Plugins:
+	Maven Interation for Eclipse.
+	Spring IDE
+
+For Web Development:
+	Install Tomcat
+	
